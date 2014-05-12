@@ -1,10 +1,10 @@
 {
-    "name": "socalnick/scn-social-auth-doctrine-orm",
+    "name": "finbarrmccarthy/scn-social-auth-doctrine-orm",
     "description": "An extension of ScnSocialAuth that provides integration with Doctrine2 ORM.",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": ["zf2", "doctrine2", "orm", "zfc", "oauth", "socialauth", "hybridauth"],
-    "homepage": "https://github.com/SocalNick/ScnSocialAuthDoctrineORM",
+    "homepage": "https://github.com/finbarrmccarthy/ScnSocialAuthDoctrineORM",
     "authors": [ {
         "name": "Nicholas Calugar",
         "email": "njcalugar@gmail.com",
